@@ -1,4 +1,6 @@
-Welcome to the Tech Learning Repository! 🚀 This repository is dedicated to documenting and sharing insights, notes, and resources on various technology domains, including DevOps, AI, Generative AI, Cloud Computing, and more.
+Welcome to the Tech Learning Repository! 🚀 
+
+This repository is dedicated to documenting and sharing insights, notes, and resources on various technology domains, including DevOps, AI, Generative AI, Cloud Computing, and more.
 
 📖 What You’ll Find Here
 
